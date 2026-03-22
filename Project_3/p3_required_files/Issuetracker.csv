@@ -1,0 +1,13 @@
+ID,TYPE,COMMIT #,STATUS,DESCRIPTION,REPORTER,ASSIGNEE,DUE,CREATED,RESOLVED,NOTES
+1,Task1,deb8e94,closed,"Implemented Passenger.h/cpp Phase I (data members, constructors, accessors, mutators, operators)",Shafin Awal,1-December,4-December,
+2,Task2,b875db5,closed,"Implemented Flight.h/cpp Phase I (data members, constructors, accessors, mutators, operators)",Fnu Aburafay,1-December,4-December,
+3,Task3,8222ed6,closed,"compiled driver_phase_1.cpp",Joel Adjei,5-December,7-December,
+4,Task4,e6fb9f0,closed,"Test A and B data members of phase 1",Fnu Aburafay,7- December,7-December,
+5,Task5,d2863ad,closed,"Implemented Core Member functions for Passenger.h/cpp Phase 2",Shafin Awal,6-December,8-December,
+6,Task6,926e0c2,closed,"Implemented Employee Data Type addFlight and findFlight",Shafin Awal,6-December,9-December, 
+7,Task7,71816e3,closed,"Implemented Core member functions for flight.h/cpp phase 2, and Employee Data type cancelFlight",Fnu Aburafay,8-December,10-December,
+8,Task8,88a25ce,closed,"Update driver_phase2.cpp to test new functions",Joel Adjei,9-December,10-December,
+9,Task9,d857dc1,closed,"Implemented UserInterface.h",Shafin Awal,10-December,10-December,
+10,Task10,b7f19b9,open,"Passenger_UI.h/cpp comepleted",Shafin Awal,10-December,10-December,
+11,Task10,55824a0,close,"Implented Employee_UI.h/cpp and implented cancelFlight function completed",Fnu Aburafay,10-December,10-December,
+12,Task11,63f5ae6,close,"Test all the functions for phase 3",Fnu Aburafay,12-December,12-December,,
