@@ -1,0 +1,17 @@
+﻿ID,TYPE,COMMIT #,STATUS,DESCRIPTION,REPORTER,ASSIGNEE,DUE,CREATED,RESOLVED,NOTES
+1,task,d91f9b4,closed,Phase 1: Container.h,Fnu Aburafay,26-Oct,18-Oct,,,
+2,task,828c611,closed,Phase 1: Container.cpp,Fnu Aburafay,26-Oct,22-Oct,,,
+3,task,bcd068d,closed,Phase 1: Files.h Files.cpp,Shafin Awal,26-Oct,21-Oct,,,
+4,task,5c629f8,closed,Phase 1: Edited Container.cpp and Driver.cpp,Shafin Awal,26-Oct,26-Oct,,,
+5,task,dc808e8,closed,phase 2: Container.h and container.cpp,Fnu Aburafay,29-Oct,30-Oct,,,
+6,task,39760a1,closed,Phase 2: Copied driver_phase1.cpp to driver_phase2.cpp,Joel Adjei,29-Oct,31-Oct,,,
+7,task,a656fdc,closed,Phase 2: Implemented erase function,Joel Adjei,31-Oct,1-Nov,,,
+8,task,70ac828,closed,Phase 2: Implemented Pop_back and insert function and modified erase function,Shafin Awal,29-Oct,2-Nov,,
+9,task,8876d70,closed,Phase 2: Tested all Extended Member functions,Shafin Awal,29-Oct,02-Nov,,
+10,task,2127a69,closed,Phase 3: Created Algorithms.h,Joel Adjei,3-Nov,3-Nov,,
+11,task,bfbd138,closed,Phase 3: Implemented Rotate function,Shafin Awal,2-Nov,05-Nov,,
+12, task,638c686,closed,Phase 3: Implemented isRotate function,Fnu Aburafay,05-Nov,05-Nov,,
+
+
+
+
